@@ -4,11 +4,12 @@ annotationResult.txt: annotation result
 
 lemmatizedTestData.txt: processed data for evaluation
 
-For the way of annotation, please see [this paper](https://www.aclweb.org/anthology/P/P16/P16-1215.pdf)
+For the way of annotation, please see [this paper](https://www.aclweb.org/anthology/P/P16/P16-1215.pdf).
 
 ## License
 
 [![ccby](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 This dataset is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 Please cite following papers, when you use this dataset.
